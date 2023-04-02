@@ -1,0 +1,19 @@
+.animation {
+  width: 100vw;
+  height: 55%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contenedor-animacion {
+  width: 600px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fail {
+  width: 300px;
+  height: 300px;
+  position: fixed;
+}

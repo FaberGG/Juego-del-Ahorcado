@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Juego-del-Ahorcado/build/static/css/main.14ac12da.css",
+    "main.js": "/Juego-del-Ahorcado/build/static/js/main.43f51938.js",
+    "index.html": "/Juego-del-Ahorcado/build/index.html",
+    "main.14ac12da.css.map": "/Juego-del-Ahorcado/build/static/css/main.14ac12da.css.map",
+    "main.43f51938.js.map": "/Juego-del-Ahorcado/build/static/js/main.43f51938.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ac12da.css",
+    "static/js/main.43f51938.js"
+  ]
+}

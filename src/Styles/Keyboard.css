@@ -1,0 +1,12 @@
+.container {
+  height: auto;
+  display: block;
+  width: 600px;
+  margin-bottom: 3%;
+}
+.Line {
+  display: flex;
+  flex-direction: row;
+  justify-content: stretch;
+  height: 52px;
+}

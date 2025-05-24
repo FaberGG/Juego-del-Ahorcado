@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Juego-del-Ahorcado/build/static/css/main.14ac12da.css",
+    "main.js": "/Juego-del-Ahorcado/build/static/js/main.4ca1640f.js",
+    "static/media/cuadro7.png": "/Juego-del-Ahorcado/build/static/media/cuadro7.9fb2c3205ec11e13643a.png",
+    "static/media/cuadro6.png": "/Juego-del-Ahorcado/build/static/media/cuadro6.e1881b05028c624f42ad.png",
+    "static/media/cuadro5.png": "/Juego-del-Ahorcado/build/static/media/cuadro5.aa04396e8099bb40acd2.png",
+    "static/media/cuadro4.png": "/Juego-del-Ahorcado/build/static/media/cuadro4.205ed89ba6fa954ddcfc.png",
+    "static/media/cuadro3.png": "/Juego-del-Ahorcado/build/static/media/cuadro3.ad9d0ce64b3a33b8f9b3.png",
+    "static/media/cuadro2.png": "/Juego-del-Ahorcado/build/static/media/cuadro2.6df019d110fad2e088c2.png",
+    "static/media/cuadro1.png": "/Juego-del-Ahorcado/build/static/media/cuadro1.ae329b9364c85a084132.png",
+    "index.html": "/Juego-del-Ahorcado/build/index.html",
+    "main.14ac12da.css.map": "/Juego-del-Ahorcado/build/static/css/main.14ac12da.css.map",
+    "main.4ca1640f.js.map": "/Juego-del-Ahorcado/build/static/js/main.4ca1640f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ac12da.css",
+    "static/js/main.4ca1640f.js"
+  ]
+}
